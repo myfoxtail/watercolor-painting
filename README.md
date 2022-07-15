@@ -1,6 +1,10 @@
 # Watercolor painting leaning plan
 Watercolor painting learning structured plan for those who want to start but struggle to find how, unless ready to pay for courses.
 
+## Why and what is watercolor
+
+- [Watercolour alchemy](https://www.youtube.com/watch?v=xY4RiTHmT4E)
+
 ## Prerequisites
 Over several years I got completely dissapointed in my way of trying to get into something I'm interested in. I spent money on different courses, I kept watching videos, buying books, but nothing really brought me forward much in any of the topics. I suspect it's due to my Russian upbringing. I expected courses and mentors to push me and motivate me to do something, because that's what teachers do in Russian schools. One day I realised, it's not working, I have to get out of this. Trying to analyse my past experiences and experiences of my friends, I came up with an idea to create a structured approach to learning something through analysis and then I applied it to watercolor painting first, and planning to continue working on this approach for other topics.
 
@@ -44,7 +48,7 @@ The first step is to learn basic traditional watercolor techniques. This is some
 - experimenting with the angle of the paiting board
 - laying down of the wash (how often stop/start, etc.)
 
-Here are the techniques:
+**Techniques:**
 - [flat wash](./flat_wash.md)
 - gradated wash
 - glases (tones)
@@ -59,7 +63,7 @@ Here are the techniques:
 - blending edges (fading)
 - side brush
 
-Marks (using different brushes as well):
+**Marks (using different brushes as well):**
 - dotting
 - dabbing
 - rolling
@@ -71,11 +75,16 @@ Marks (using different brushes as well):
 
 To find about each of those you can google or search on youtube by name.
 
-While practicing, constantly analyse and make notes of results. What you like, what you don't like. What you found works or not.
+While practicing, constantly analyse and make notes of results. What you like, what you don't like. What you find works or not. You may also start finding that there is certain style you prefer or avoid. 
 
 
 ### Step 2. Apply techniques for objects
-Instead of jumping straight into drawing complex pictures and compositions, I suggest to start with drawing simple objects: trees, flours, cubes, apples, clouds, rocks, etc. Here it's important to practice drawing, for example, a tree using all the different techniques you learnt about during the first step. During this step we also start learning from someone else. I suggest picking up a few artists youtube channels and repeating their studies on small objects. Try to make sure they are not doing speed paining, because you want to see their way to apply techniques to get a better feel of the watercolor.
+Instead of jumping straight into drawing complex pictures and compositions, I suggest to start with **drawing simple objects**: trees, flours, cubes, apples, clouds, rocks, etc. Here it's important to practice drawing, for example, a tree using all the different techniques you learnt about during the first step. During this step we also start learning from someone else. I suggest picking up a few artists youtube channels and repeating their studies on small objects.
+
+Make sure:
+- artists are not doing speed painting (you want to see their way to apply techniques to get a better feel of the watercolor)
+- artists explain or vocalise what they are doing (not critical, but nice to have)
+- to pick up multiple channels with different styles (that way you can see how the tree can be painted from 5000 directions)
 
 Here is the learning process:
 - observe and study the demonstration
@@ -83,9 +92,12 @@ Here is the learning process:
 - experiment
 - analyse
 
-Artists channels I found interesting for myself:
+Artists channels I found interesting for myself (all have very different styles):
 - [Grant Fuller](https://www.youtube.com/user/grantwfuller) - some good simple studies on rocks, trees, etc
-- [iraville](https://www.youtube.com/user/iraville/featured)
+- [iraville](https://www.youtube.com/user/iraville/featured) - very specific style of painting, has simple studies of birds, characters, trees
+- [Scott Swinson](https://www.youtube.com/c/ScottSwinson) - for landscapes and moving into step 3, also has chinese techniques
+- [Lena Gemzøe](https://www.youtube.com/channel/UC2ZGkN4GLK6FFrErop8Qq5A/featured) - very unusual style (hard techniques, but worth trying)
+- [Mind of watercolor](https://www.youtube.com/c/mindofwatercolor/playlists) - lots of tutorials
 
 There are also books that analyse and showcase different application of techniques by greatest artists. For example, [Tate watercolour manual](https://shop.tate.org.uk/tate-watercolour-manual/13006.html). These types of books are good to study from.
 
