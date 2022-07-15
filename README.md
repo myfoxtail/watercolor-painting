@@ -45,7 +45,7 @@ The first step is to learn basic traditional watercolor techniques. This is some
 - laying down of the wash (how often stop/start, etc.)
 
 Here are the techniques:
-- flat wash
+- [flat wash](./flat_wash.md)
 - gradated wash
 - glases (tones)
 - variegated wash
@@ -85,7 +85,7 @@ Here is the learning process:
 
 Artists channels I found interesting for myself:
 - [Grant Fuller](https://www.youtube.com/user/grantwfuller) - some good simple studies on rocks, trees, etc
-- []()
+- [iraville](https://www.youtube.com/user/iraville/featured)
 
 There are also books that analyse and showcase different application of techniques by greatest artists. For example, [Tate watercolour manual](https://shop.tate.org.uk/tate-watercolour-manual/13006.html). These types of books are good to study from.
 
@@ -99,6 +99,7 @@ So here are ways:
 - find video demonstrations to copy (masterclasses, etc)
 - find favourite watercolor paintings to copy
 - find step-by-step guides, exercises, projects to follow
+- art-kits, e.g. https://www.mossery.co/collections/art-kits
 
 During this step the learning process is the same:
 - observe and study the demonstration
@@ -123,3 +124,9 @@ Here are some idea startes I found from books:
 - making landscapes from "blots"
 - making landscapes from little rocks, crumbled paper
 - using real branches and other things
+
+## Schedule
+
+To make it all happen one needs a **schedule** - something to hold on to and try to practice every day. I came up with my own one that fits my routine. Feel free to change it to your needs and circumstances.
+
+See my schedule [here](./schedule.md).
