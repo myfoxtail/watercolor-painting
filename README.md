@@ -98,6 +98,7 @@ Artists channels I found interesting for myself (all have very different styles)
 - [Scott Swinson](https://www.youtube.com/c/ScottSwinson) - for landscapes and moving into step 3, also has chinese techniques
 - [Lena Gemzøe](https://www.youtube.com/channel/UC2ZGkN4GLK6FFrErop8Qq5A/featured) - very unusual style (hard techniques, but worth trying)
 - [Mind of watercolor](https://www.youtube.com/c/mindofwatercolor/playlists) - lots of tutorials
+- [Henry Li](https://www.youtube.com/watch?v=oFOF9gThMYs&list=PL142005120CDA7E65) - chinese painting tutorials
 
 There are also books that analyse and showcase different application of techniques by greatest artists. For example, [Tate watercolour manual](https://shop.tate.org.uk/tate-watercolour-manual/13006.html). These types of books are good to study from.
 
