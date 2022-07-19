@@ -16,8 +16,8 @@ See examples of how it looks like:
 
 Charts
 
-![charts](./fw_1.jpg)
+![charts](./fw_2.jpg)
 
 Figures
 
-![figures](./fw_2.jpg)
+![figures](./fw_1.jpg)
