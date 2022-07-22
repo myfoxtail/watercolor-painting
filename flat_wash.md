@@ -21,3 +21,5 @@ Charts
 Figures
 
 ![figures](./fw_1.jpg)
+
+Try different paper (cold pressed, hot pressed, rough), different pigments. Wisor & Newton behaves very differently from Schmincke and Daniel Smith.

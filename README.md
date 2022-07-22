@@ -28,8 +28,8 @@ Some people do not recommend to start with expensive materials. I found that bad
 | Material | Why and what |
 | --- | --- |
 | Painting board | Just a wooden board. It's important to paint using different angles in order to undesrtand the medium better. Painting on the table will limit the learning experience. |
-| Watercolors | Tubes or brickets. Good ones: Schmincke, Winsor & Newton, Daniel Smith, Nevskaya Palitra |
-| Paper, paper charts | Any good 300+ GSM watercolor paper. I also suggest buying hot pressed, cold pressed, etc. just to see how it behaves. |
+| Watercolors | Tubes or brickets. Good ones: Schmincke, Winsor & Newton, Daniel Smith, Nevskaya Palitra. I found buying different brands helps to experiment and see the difference in pigments and how they behave. |
+| Paper, paper charts | Any good 300+ GSM watercolor paper. Suggest buying hot pressed, cold pressed, etc. to see how it behaves. |
 | Masking tape | To make paper charts and tape the paper to the board. |
 | Brushes | There are lots of videos about what brushes people recommend. Eventually you will end up buying different shapes and sizes. To start with you can choose ... |
 
@@ -50,7 +50,7 @@ The first step is to learn basic traditional watercolor techniques. This is some
 
 **Techniques:**
 - [flat wash](./flat_wash.md)
-- gradated wash
+- [gradated wash](./gradated_wash.md)
 - glases (tones)
 - variegated wash
 - reserved whites
